@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1477517485 source:d:\dit\dt228 year 1\semester 1\program design\ca\new folder\programming_assignment\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1479067158 source:d:\dit\dt228 year 1\semester 1\programing\assegnment 1\programming_assignment\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
