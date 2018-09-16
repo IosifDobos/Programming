@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1488233261 source:d:\dit\dt228 year 1\semester 2\programming\assignment 2\assignment_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1489356215 source:d:\dit\dt228 year 1\semester 2\programming\assignment 2\programming_assignment 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
