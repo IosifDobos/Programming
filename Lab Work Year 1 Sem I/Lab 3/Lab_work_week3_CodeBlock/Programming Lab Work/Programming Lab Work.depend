@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1475573238 source:d:\dit\dt228 year 1\semester 1\programing\first c program\programming lab work\lab_work_week4.c
+	<stdio.h>
+	<stdlib.h>
+
+1475572939 source:d:\dit\dt228 year 1\semester 1\programing\first c program\programming lab work\main.c
+	<stdio.h>
+	<stdlib.h>
+
