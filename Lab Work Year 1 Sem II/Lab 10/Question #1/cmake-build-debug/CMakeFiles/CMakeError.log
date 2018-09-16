@@ -1,0 +1,26 @@
+Detecting C [-std=c11] compiler features failed to compile with the following output:
+Change Dir: D:/DIT/DT228 Year 1/SEMESTER 2/Programming/Labs/Lab_Week_10/Question #1/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/PROGRA~2/MINGW-~1/I686-6~1.0-P/mingw32/bin/mingw32-make.exe" "cmTC_5f0d6/fast"
+C:/PROGRA~2/MINGW-~1/I686-6~1.0-P/mingw32/bin/mingw32-make.exe -f CMakeFiles\cmTC_5f0d6.dir\build.make CMakeFiles/cmTC_5f0d6.dir/build
+mingw32-make.exe[1]: Entering directory 'D:/DIT/DT228 Year 1/SEMESTER 2/Programming/Labs/Lab_Week_10/Question #1/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: *** No rule to make target 'D:/DIT/DT228 Year 1/SEMESTER 2/Programming/Labs/Lab_Week_10/Question\', needed by 'CMakeFiles/cmTC_5f0d6.dir/feature_tests.c.obj'.  Stop.
+mingw32-make.exe[1]: Leaving directory 'D:/DIT/DT228 Year 1/SEMESTER 2/Programming/Labs/Lab_Week_10/Question #1/cmake-build-debug/CMakeFiles/CMakeTmp'
+Makefile:125: recipe for target 'cmTC_5f0d6/fast' failed
+mingw32-make.exe: *** [cmTC_5f0d6/fast] Error 2
+
+
+
+Detecting CXX [-std=c++14] compiler features failed to compile with the following output:
+Change Dir: D:/DIT/DT228 Year 1/SEMESTER 2/Programming/Labs/Lab_Week_10/Question #1/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/PROGRA~2/MINGW-~1/I686-6~1.0-P/mingw32/bin/mingw32-make.exe" "cmTC_a2072/fast"
+C:/PROGRA~2/MINGW-~1/I686-6~1.0-P/mingw32/bin/mingw32-make.exe -f CMakeFiles\cmTC_a2072.dir\build.make CMakeFiles/cmTC_a2072.dir/build
+mingw32-make.exe[1]: Entering directory 'D:/DIT/DT228 Year 1/SEMESTER 2/Programming/Labs/Lab_Week_10/Question #1/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: *** No rule to make target 'D:/DIT/DT228 Year 1/SEMESTER 2/Programming/Labs/Lab_Week_10/Question\', needed by 'CMakeFiles/cmTC_a2072.dir/feature_tests.cxx.obj'.  Stop.
+mingw32-make.exe[1]: Leaving directory 'D:/DIT/DT228 Year 1/SEMESTER 2/Programming/Labs/Lab_Week_10/Question #1/cmake-build-debug/CMakeFiles/CMakeTmp'
+Makefile:125: recipe for target 'cmTC_a2072/fast' failed
+mingw32-make.exe: *** [cmTC_a2072/fast] Error 2
+
+
+

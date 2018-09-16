@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/DIT/DT228 Year 1/SEMESTER 2/Programming/Labs/Lab_Week_9/Question 3/main.c
+stdio.h
+-
+string.h
+-
+

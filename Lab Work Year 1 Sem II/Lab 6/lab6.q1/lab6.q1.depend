@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1488273593 source:d:\dit\dt228 year 1\semester 2\program with persistent data\lab work\lab_week_5\lab6.q1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
